@@ -3,7 +3,7 @@
 // MDN => https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 
 
-// 배열의 각 요소에 대해 오름차순으로 한 번 씩 실행: 2, 4, 6
+// 배열의 각 요소에 대해 오름차순으로 한 번 씩 실행: [2, 4, 6]
 const arr = [1, 2, 3];
 arr.forEach(value => console.log(value * 2));
 
